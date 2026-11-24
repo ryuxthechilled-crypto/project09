@@ -7,6 +7,7 @@ on:
 jobs:
   render:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
 
     steps:
       - name: Checkout repository
@@ -20,12 +21,14 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Render video
-        run: npm run build
+      - name: Render Roblox Short
+        run: |
+          mkdir -p out
+          npx remotion render src/index.ts RobloxShort out/roblox-short.mp4
 
       - name: Upload video
         uses: actions/upload-artifact@v4
         with:
           name: rendered-video
-          path: out/
+          path: out/roblox-short.mp4
           
