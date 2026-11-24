@@ -1,0 +1,470 @@
+{
+  "durationSeconds": 41.58,
+  "durationInFrames": 1248,
+  "beatTimings": {
+    "b1": {
+      "startSec": 0.15,
+      "endSec": 3.125,
+      "startFrame": 4,
+      "endFrame": 94,
+      "text": "In this town, every single kid goes to Graceland School."
+    },
+    "b2": {
+      "startSec": 3.205,
+      "endSec": 5.884,
+      "startFrame": 96,
+      "endFrame": 177,
+      "text": "And there is only one rule: do your homework every night."
+    },
+    "b3": {
+      "startSec": 5.964,
+      "endSec": 8.19,
+      "startFrame": 179,
+      "endFrame": 246,
+      "text": "Because the kids who don't... are gone by morning."
+    },
+    "b4": {
+      "startSec": 8.31,
+      "endSec": 11.388,
+      "startFrame": 249,
+      "endFrame": 342,
+      "text": "Nobody knows who takes them. We call it the Homework Monster."
+    },
+    "b5": {
+      "startSec": 11.488,
+      "endSec": 14.903,
+      "startFrame": 345,
+      "endFrame": 447,
+      "text": "Last week, my best friend Sam skipped his. His desk is still empty."
+    },
+    "b6": {
+      "startSec": 15.043,
+      "endSec": 16.853,
+      "startFrame": 451,
+      "endFrame": 506,
+      "text": "And last night... I forgot mine too."
+    },
+    "b7": {
+      "startSec": 17.053,
+      "endSec": 19.392,
+      "startFrame": 512,
+      "endFrame": 582,
+      "text": "At midnight, something scratched at my bedroom window."
+    },
+    "b8": {
+      "startSec": 19.472,
+      "endSec": 21.889,
+      "startFrame": 584,
+      "endFrame": 657,
+      "text": "A shadow rose up in the corner, taller than the door."
+    },
+    "b9": {
+      "startSec": 21.989,
+      "endSec": 24.161,
+      "startFrame": 660,
+      "endFrame": 725,
+      "text": "It leaned down close... and whispered my name."
+    },
+    "w1": {
+      "startSec": 24.301,
+      "endSec": 25.027,
+      "startFrame": 729,
+      "endFrame": 751,
+      "text": "MISTER!"
+    },
+    "w2": {
+      "startSec": 25.127,
+      "endSec": 25.864,
+      "startFrame": 754,
+      "endFrame": 776,
+      "text": "MUANA!"
+    },
+    "b10": {
+      "startSec": 26.024,
+      "endSec": 29.375,
+      "startFrame": 781,
+      "endFrame": 881,
+      "text": "The mask slipped off. The Homework Monster was Mister K. Muana."
+    },
+    "b11": {
+      "startSec": 29.575,
+      "endSec": 32.438,
+      "startFrame": 887,
+      "endFrame": 973,
+      "text": "But then my door opened, and every missing kid walked in."
+    },
+    "b12": {
+      "startSec": 32.558,
+      "endSec": 34.914,
+      "startFrame": 977,
+      "endFrame": 1047,
+      "text": "They were never gone. They had been waiting for tonight."
+    },
+    "b13": {
+      "startSec": 35.034,
+      "endSec": 37.817,
+      "startFrame": 1051,
+      "endFrame": 1134,
+      "text": "Together, we froze him solid in the Graceland schoolyard."
+    },
+    "b14": {
+      "startSec": 37.937,
+      "endSec": 40.903,
+      "startFrame": 1138,
+      "endFrame": 1227,
+      "text": "Now he is our statue... and homework is never late again."
+    }
+  },
+  "captions": [
+    {
+      "startFrame": 4,
+      "endFrame": 16,
+      "text": "In this"
+    },
+    {
+      "startFrame": 17,
+      "endFrame": 34,
+      "text": "town, every"
+    },
+    {
+      "startFrame": 35,
+      "endFrame": 52,
+      "text": "single kid"
+    },
+    {
+      "startFrame": 53,
+      "endFrame": 81,
+      "text": "goes to Graceland"
+    },
+    {
+      "startFrame": 82,
+      "endFrame": 93,
+      "text": "School."
+    },
+    {
+      "startFrame": 96,
+      "endFrame": 109,
+      "text": "And there"
+    },
+    {
+      "startFrame": 110,
+      "endFrame": 120,
+      "text": "is only"
+    },
+    {
+      "startFrame": 121,
+      "endFrame": 134,
+      "text": "one rule:"
+    },
+    {
+      "startFrame": 135,
+      "endFrame": 145,
+      "text": "do your"
+    },
+    {
+      "startFrame": 146,
+      "endFrame": 166,
+      "text": "homework every"
+    },
+    {
+      "startFrame": 167,
+      "endFrame": 176,
+      "text": "night."
+    },
+    {
+      "startFrame": 179,
+      "endFrame": 194,
+      "text": "Because the"
+    },
+    {
+      "startFrame": 195,
+      "endFrame": 205,
+      "text": "kids who"
+    },
+    {
+      "startFrame": 206,
+      "endFrame": 222,
+      "text": "don't... are"
+    },
+    {
+      "startFrame": 223,
+      "endFrame": 245,
+      "text": "gone by morning."
+    },
+    {
+      "startFrame": 249,
+      "endFrame": 268,
+      "text": "Nobody knows"
+    },
+    {
+      "startFrame": 269,
+      "endFrame": 282,
+      "text": "who takes"
+    },
+    {
+      "startFrame": 283,
+      "endFrame": 303,
+      "text": "them. We call"
+    },
+    {
+      "startFrame": 304,
+      "endFrame": 313,
+      "text": "it the"
+    },
+    {
+      "startFrame": 314,
+      "endFrame": 341,
+      "text": "Homework Monster."
+    },
+    {
+      "startFrame": 345,
+      "endFrame": 360,
+      "text": "Last week,"
+    },
+    {
+      "startFrame": 361,
+      "endFrame": 372,
+      "text": "my best"
+    },
+    {
+      "startFrame": 373,
+      "endFrame": 389,
+      "text": "friend Sam"
+    },
+    {
+      "startFrame": 390,
+      "endFrame": 409,
+      "text": "skipped his."
+    },
+    {
+      "startFrame": 410,
+      "endFrame": 423,
+      "text": "His desk"
+    },
+    {
+      "startFrame": 424,
+      "endFrame": 436,
+      "text": "is still"
+    },
+    {
+      "startFrame": 437,
+      "endFrame": 446,
+      "text": "empty."
+    },
+    {
+      "startFrame": 451,
+      "endFrame": 463,
+      "text": "And last"
+    },
+    {
+      "startFrame": 464,
+      "endFrame": 490,
+      "text": "night... I forgot"
+    },
+    {
+      "startFrame": 491,
+      "endFrame": 505,
+      "text": "mine too."
+    },
+    {
+      "startFrame": 512,
+      "endFrame": 527,
+      "text": "At midnight,"
+    },
+    {
+      "startFrame": 528,
+      "endFrame": 553,
+      "text": "something scratched"
+    },
+    {
+      "startFrame": 554,
+      "endFrame": 571,
+      "text": "at my bedroom"
+    },
+    {
+      "startFrame": 572,
+      "endFrame": 581,
+      "text": "window."
+    },
+    {
+      "startFrame": 584,
+      "endFrame": 595,
+      "text": "A shadow"
+    },
+    {
+      "startFrame": 596,
+      "endFrame": 610,
+      "text": "rose up in"
+    },
+    {
+      "startFrame": 611,
+      "endFrame": 626,
+      "text": "the corner,"
+    },
+    {
+      "startFrame": 627,
+      "endFrame": 642,
+      "text": "taller than"
+    },
+    {
+      "startFrame": 643,
+      "endFrame": 656,
+      "text": "the door."
+    },
+    {
+      "startFrame": 660,
+      "endFrame": 672,
+      "text": "It leaned"
+    },
+    {
+      "startFrame": 673,
+      "endFrame": 692,
+      "text": "down close..."
+    },
+    {
+      "startFrame": 693,
+      "endFrame": 712,
+      "text": "and whispered"
+    },
+    {
+      "startFrame": 713,
+      "endFrame": 724,
+      "text": "my name."
+    },
+    {
+      "startFrame": 729,
+      "endFrame": 754,
+      "text": "MISTER!"
+    },
+    {
+      "startFrame": 754,
+      "endFrame": 779,
+      "text": "MUANA!"
+    },
+    {
+      "startFrame": 781,
+      "endFrame": 793,
+      "text": "The mask"
+    },
+    {
+      "startFrame": 794,
+      "endFrame": 814,
+      "text": "slipped off."
+    },
+    {
+      "startFrame": 815,
+      "endFrame": 834,
+      "text": "The Homework"
+    },
+    {
+      "startFrame": 835,
+      "endFrame": 853,
+      "text": "Monster was"
+    },
+    {
+      "startFrame": 854,
+      "endFrame": 880,
+      "text": "Mister K. Muana."
+    },
+    {
+      "startFrame": 887,
+      "endFrame": 899,
+      "text": "But then"
+    },
+    {
+      "startFrame": 900,
+      "endFrame": 911,
+      "text": "my door"
+    },
+    {
+      "startFrame": 912,
+      "endFrame": 929,
+      "text": "opened, and"
+    },
+    {
+      "startFrame": 930,
+      "endFrame": 951,
+      "text": "every missing"
+    },
+    {
+      "startFrame": 952,
+      "endFrame": 967,
+      "text": "kid walked"
+    },
+    {
+      "startFrame": 968,
+      "endFrame": 972,
+      "text": "in."
+    },
+    {
+      "startFrame": 977,
+      "endFrame": 988,
+      "text": "They were"
+    },
+    {
+      "startFrame": 989,
+      "endFrame": 1003,
+      "text": "never gone."
+    },
+    {
+      "startFrame": 1004,
+      "endFrame": 1014,
+      "text": "They had"
+    },
+    {
+      "startFrame": 1015,
+      "endFrame": 1030,
+      "text": "been waiting"
+    },
+    {
+      "startFrame": 1031,
+      "endFrame": 1046,
+      "text": "for tonight."
+    },
+    {
+      "startFrame": 1051,
+      "endFrame": 1078,
+      "text": "Together, we froze"
+    },
+    {
+      "startFrame": 1079,
+      "endFrame": 1092,
+      "text": "him solid"
+    },
+    {
+      "startFrame": 1093,
+      "endFrame": 1101,
+      "text": "in the"
+    },
+    {
+      "startFrame": 1102,
+      "endFrame": 1133,
+      "text": "Graceland schoolyard."
+    },
+    {
+      "startFrame": 1138,
+      "endFrame": 1152,
+      "text": "Now he is"
+    },
+    {
+      "startFrame": 1153,
+      "endFrame": 1174,
+      "text": "our statue..."
+    },
+    {
+      "startFrame": 1175,
+      "endFrame": 1194,
+      "text": "and homework"
+    },
+    {
+      "startFrame": 1195,
+      "endFrame": 1208,
+      "text": "is never"
+    },
+    {
+      "startFrame": 1209,
+      "endFrame": 1226,
+      "text": "late again."
+    }
+  ]
+}
